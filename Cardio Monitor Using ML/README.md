@@ -1,6 +1,5 @@
 <h1> <img src="https://github.com/BriceEbba/Machine-Learning-Projects/blob/main/Cardio%20Monitor%20Using%20ML/static/heartlogo.png" width="50px" /> Cardio-Monitor</h1>
 
-**Ongoing Project**
 
 Cardio Monotor is a web app that helps you to find out whether you are at a risk of developing a heart disease. **the model used for prediction has the accuracy of 92%.**
 
