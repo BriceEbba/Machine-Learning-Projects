@@ -10,11 +10,11 @@ Over the last few decades, heart disease is the most common cause of global deat
 
 
 
-<h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flow_logo.svg/846px-Flow_logo.svg.png" width="30px" /> general working of this web application.</h3> 
+<h3> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flow_logo.svg/846px-Flow_logo.svg.png" width="30px" /> General working of this web application.</h3> 
 
 ![](https://github.com/BriceEbba/Machine-Learning-Projects/blob/main/Cardio%20Monitor%20Using%20ML/Input%20Data.png
 )
-https://raw.githubusercontent.com/shsarv/Cardio-Monitor/main/Input%20Data.png
+
 <h3>Technology Used. </h3> 
 <code><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" width="120px" /></code>
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="120px" /></code>
