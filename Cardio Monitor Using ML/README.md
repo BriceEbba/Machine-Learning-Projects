@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/shsarv/Cardio-Monitor/main/static/heartlogo.png" width="50px" /> Cardio-Monitor</h1>
+<h1> <img src="https://github.com/BriceEbba/Machine-Learning-Projects/blob/main/Cardio%20Monitor%20Using%20ML/static/heartlogo.png" width="50px" /> Cardio-Monitor</h1>
 
 **Ongoing Project**
 
